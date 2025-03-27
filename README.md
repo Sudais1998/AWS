@@ -1,5 +1,4 @@
-![assets aboutamazon](https://github.com/user-attachments/assets/b81e5b5a-6928-4060-995d-7f0d0a364960)
-
+Here's your properly structured **README Profile** with the **Table of Contents** and sub-categories neatly aligned. I've also added the **jump link** to the Table of Contents and ensured everything remains clean and professional. 🚀  
 
 ---
 
@@ -14,19 +13,28 @@ This portfolio serves as a practical representation of my **Cloud & DevOps Engin
 ## 📌 **Table of Contents** 🗂️  
 
 1️⃣ [👨‍💻 About Me](#-about-me)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Certifications & Expertise](#-certifications--expertise)  
+
 2️⃣ [📚 Projects Overview](#-projects-overview)  
-   - 🔹 [IAM User Management](#-project-1-step-by-step-guide-to-creating-an-iam-user-in-aws)  
-   - 🔹 [AWS S3 Data Analysis](#-project-2-hosting-a-static-website-on-aws-s3-with-cloudfront)  
-   - 🔹 [Serverless Application Deployment](#-project-3-deploying-a-scalable-web-application-using-aws-elastic-beanstalk)  
-   - 🔹 CI/CD Pipeline Implementation  
-   - 🔹 Infrastructure as Code (IaC)  
-   - 🔹 Cloud Security & Compliance  
-3️⃣ [🛠 Technologies & Tools](#-technologies--tools)  
-4️⃣ [🚀 Getting Started](#-getting-started)  
-5️⃣ [📖 Learning Resources](#-learning-resources)  
-6️⃣ [📝 Best Practices](#-security-best-practices)  
-7️⃣ [📞 Contact Information](#-contact-information)  
-8️⃣ [📜 License](#-license)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 1: Step-by-Step Guide to Creating an IAM User in AWS](#-project-1-step-by-step-guide-to-creating-an-iam-user-in-aws)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 2: Hosting a Static Website on AWS S3 with CloudFront](#-project-2-hosting-a-static-website-on-aws-s3-with-cloudfront)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 3: Deploying a Scalable Web Application using AWS Elastic Beanstalk](#-project-3-deploying-a-scalable-web-application-using-aws-elastic-beanstalk)  
+
+3️⃣ [📂 Getting Started](#-getting-started)  
+
+4️⃣ [🛠 Technologies & Tools](#-technologies--tools)  
+
+5️⃣ [🚀 AWS Services Used](#-aws-services-used)  
+
+6️⃣ [📈 Deployment Strategies](#-deployment-strategies)  
+
+7️⃣ [🔐 Security Best Practices](#-security-best-practices)  
+
+8️⃣ [🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)  
+
+9️⃣ [📜 Documentation & References](#-documentation--references)  
+
+🔟 [📩 Contact Information](#-contact-information)  
 
 📖 **[Jump to Table of Contents](#-table-of-contents)**  
 
@@ -34,18 +42,23 @@ This portfolio serves as a practical representation of my **Cloud & DevOps Engin
 
 ## 👨‍💻 **About Me** 🌍  
 
-Hello! I'm **Oladosu Ibrahim**, a **Cloud/DevOps Engineer** passionate about designing, deploying, and optimizing cloud-based infrastructures. I specialize in **Amazon Web Services (AWS) and Microsoft Azure**, leveraging a wide range of cloud services to build scalable, secure, and highly available applications.  
+Hello! I'm **Oladosu Ibrahim**, a **Cloud/DevOps Engineer** passionate about designing, deploying, and optimizing cloud-based infrastructures. I specialize in **Amazon Web Services (AWS) and Microsoft Azure**, leveraging a wide range of cloud services to build **scalable, secure, and highly available** applications.  
 
-🔹 **Certifications & Expertise:**  
-✔ AWS Certified Solutions Architect 🏆  
-✔ Microsoft Certified Azure Solutions Architect 🌍  
-✔ AWS Certified DevOps Engineer 🚀  
-✔ Azure DevOps Engineer 🛠️  
-✔ PowerBI & Data Analytics 📊  
-✔ Python & SQL Developer 💻  
-✔ Infrastructure as Code (Terraform & AWS CloudFormation) 🏗️  
+### 🔹 **Certifications & Expertise:**  
 
-This repository serves as a collection of **real-world cloud projects**, highlighting my experience in infrastructure automation, cloud security, DevOps workflows, and cost optimization strategies. Dive into each project to explore my cloud computing expertise! ☁️✨  
+✔ 🏆 **AWS Certified Cloud Practitioner**  
+✔ 🏆 **AWS Certified Solutions Architect**  
+✔ 🛠️ **Microsoft Azure Fundamental**  
+✔ 🚀 **Microsoft Azure Data Fundamental**  
+✔ 🌍 **Microsoft Certified Azure Solutions Architect**  
+✔ 📊 **Data Analysis & Visualization**  
+✔ 📂 **Data/Big Data Engineer**  
+✔ 📊 **PowerBI Developer**  
+✔ 💻 **SQL Developer**  
+✔ 📈 **Business Intelligence Engineer**  
+✔ 🏗️ **Infrastructure as Code (Terraform & AWS CloudFormation)**  
+
+This repository serves as a collection of **real-world cloud projects**, highlighting my experience in **infrastructure automation, cloud security, DevOps workflows, and cost optimization strategies**. Dive into each project to explore my **cloud computing expertise!** ☁️✨  
 
 ---
 
@@ -98,15 +111,13 @@ This section provides an in-depth look into the **AWS-based projects** I’ve wo
 
 ---
 
-## 📖 **Learning Resources** 📚  
+## 📂 **Getting Started**  
 
-- AWS Documentation: [AWS Docs](https://docs.aws.amazon.com/)  
-- Terraform Docs: [Terraform](https://developer.hashicorp.com/terraform/docs)  
-- DevOps Best Practices: [AWS DevOps](https://aws.amazon.com/devops/)  
+If any of these projects interest you, navigate to the respective **project directories** and follow the detailed **README instructions** for setup and deployment. You can also fork and experiment with the code to explore different AWS services.  
 
 ---
 
-## 🛠 **Technologies & Tools** 🔧  
+## 🛠 **Technologies & Tools**  
 
 - ☁️ **Cloud Providers:** AWS, Azure  
 - 🏗 **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
@@ -127,30 +138,23 @@ This section provides an in-depth look into the **AWS-based projects** I’ve wo
 
 ---
 
-## 🚀 **Getting Started** 🔰  
-
-If any of these projects interest you, navigate to the respective **project directories** and follow the detailed **README instructions** for setup and deployment. You can also fork and experiment with the code to explore different AWS services.  
-
----
-
-## 📞 **Contact Information** 📬  
+## 📩 **Contact Information**  
 
 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
 🔗 **LinkedIn:** [linkedin.com/in/kingbabz-cloud](https://www.linkedin.com/in/kingbabz-cloud)  
 🐦 **Twitter:** [twitter.com/kingbabz_cloud](https://twitter.com/kingbabz_cloud)  
 📂 **GitHub:** [github.com/kingbabz-cloud](https://github.com/kingbabz-cloud)  
-📂 **Blog:** [github.com/kingbabz-cloud](https://github.com/kingbabz-cloud)  
 
 I’m open to **collaborations, technical discussions, freelance projects, and consulting opportunities** in **Cloud & DevOps Engineering**. Feel free to connect! ☁️✨  
 
 ---
 
-## 📜 **License** 📄  
+## 📜 **License**  
 
-This repository is licensed under the **MIT License**. Feel free to use, modify, and distribute the projects with proper attribution.  
+This repository is licensed under the **MIT License**.  
 
 ---
 
-### Thank you for visiting my AWS Projects Portfolio! 🚀💡  
+### 🚀 **Thank you for visiting my AWS Projects Portfolio!** 💡  
 
 Explore, learn, and feel free to contribute! Happy cloud computing! ☁️⚡
