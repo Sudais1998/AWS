@@ -14,26 +14,17 @@ This portfolio serves as a practical representation of my **Cloud & DevOps Engin
 
 1️⃣ [👨‍💻 About Me](#-about-me)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Certifications & Expertise](#-certifications--expertise)  
-
 2️⃣ [📚 Projects Overview](#-projects-overview)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 1: Step-by-Step Guide to Creating an IAM User in AWS](#-project-1-step-by-step-guide-to-creating-an-iam-user-in-aws)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 2: Hosting a Static Website on AWS S3 with CloudFront](#-project-2-hosting-a-static-website-on-aws-s3-with-cloudfront)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Project 3: Deploying a Scalable Web Application using AWS Elastic Beanstalk](#-project-3-deploying-a-scalable-web-application-using-aws-elastic-beanstalk)  
-
 3️⃣ [📂 Getting Started](#-getting-started)  
-
 4️⃣ [🛠 Technologies & Tools](#-technologies--tools)  
-
 5️⃣ [🚀 AWS Services Used](#-aws-services-used)  
-
 6️⃣ [📈 Deployment Strategies](#-deployment-strategies)  
-
 7️⃣ [🔐 Security Best Practices](#-security-best-practices)  
-
 8️⃣ [🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)  
-
 9️⃣ [📜 Documentation & References](#-documentation--references)  
-
 🔟 [📩 Contact Information](#-contact-information)  
 
 📖 **[Jump to Table of Contents](#-table-of-contents)**  
